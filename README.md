@@ -91,7 +91,7 @@ Results are calculated dynamically using backend logic built with Servlets and J
 ## 👩‍💻 Developed By
 
 **Swathi Mekala**  
-B.Tech Information Technology  
+B.Tech Computer Science Engineering 
 Java Full Stack Developer
 
 ---
