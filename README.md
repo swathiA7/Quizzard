@@ -90,7 +90,7 @@ Results are calculated dynamically using backend logic built with Servlets and J
 
 ## 👩‍💻 Developed By
 
-**Sandhya Mekala**  
+**Swathi Mekala**  
 B.Tech Information Technology  
 Java Full Stack Developer
 
